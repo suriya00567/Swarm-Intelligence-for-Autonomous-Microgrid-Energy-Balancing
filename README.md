@@ -1,4 +1,4 @@
-# Renewable Energy Storage Optimization using Particle Swarm Optimization (PSO)
+# Swarm Intelligence for Autonomous Microgrid Energy Balancing
 
 This project investigates the application of **Particle Swarm Optimization (PSO)** to minimize the mismatch between renewable energy generation and consumption by optimizing energy storage utilization.
 
